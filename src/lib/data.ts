@@ -144,14 +144,14 @@ export const questions: Question[] = [
       { text: '去了解下是跳槽还是被裁，顺便推演下对自己团队的影响', type: 'huangdi' },
       { text: '有点羡慕，但先品一品这信息背后有没有更大的风暴', type: 'xipin' },
       { text: '啊？原来他也在我们公司？一直不知道', type: 'wuchuang' },
-      { text: '少一个人分蛋糕。继续卷。', type: 'dajujuan' },
+      { text: '少一个人分蛋糕，说明我比自己想的有竞争力', type: 'zhandouji' },
     ]
   },
   {
     id: 8,
     text: '老板在会上说"明年我们要做到行业第一"——你？',
     options: [
-      { text: '在心里快速拆解达成路径和需要的资源，越想越兴奋', type: 'dajujuan' },
+      { text: '在心里拆解达成路径，越想越觉得有坑，直接开口问了三连', type: 'zhandouji' },
       { text: '分析这个目标实现后对自己的职级和薪资有什么拉动', type: 'huangdi' },
       { text: '又是一个饼。行吧你说什么就是什么。', type: 'gouqie' },
       { text: '"请问现在的市场份额具体是多少？有对标数据支撑这个目标吗？"', type: 'zhandouji' },
@@ -164,7 +164,7 @@ export const questions: Question[] = [
       { text: '趁没人找，把积压的三个优化方案全写了', type: 'dajujuan' },
       { text: '提前准备下个月的述职素材，好内容都是没压力时磨出来的', type: 'huangdi' },
       { text: '戴着耳机摸鱼，看看外面天气，思考人生的意义', type: 'gouqie' },
-      { text: '不知道干了什么，但一下午就过去了，挺开心的', type: 'wuchuang' },
+      { text: '什么也不干，但什么都不干本身就是一种选择——品一壶茶，品一个下午', type: 'xipin' },
     ]
   },
   {
@@ -221,7 +221,7 @@ export const questions: Question[] = [
     id: 15,
     text: '同事发了段60秒语音——你？',
     options: [
-      { text: '转文字后秒回，把要点一条条列清楚', type: 'dajujuan' },
+      { text: '转换了文字，但不急着回——先看看群里其他人怎么说', type: 'xipin' },
       { text: '转了文字。已读。先品一下对方为什么选择发语音而不是打字', type: 'xipin' },
       { text: '懒得转文字，回了个"收到，了解"', type: 'gouqie' },
       { text: '回了一段65秒的语音——让他也体验一下', type: 'zhandouji' },
