@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[69782,["/big-tech-personality/_next/static/chunks/13t0qh0mwuzxl.js"],"default"]
+3:I[6340,["/big-tech-personality/_next/static/chunks/13t0qh0mwuzxl.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"GJBZtSw2pOK8IztJ85i5k"}
